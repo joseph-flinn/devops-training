@@ -10,9 +10,6 @@ well situated for DevOps; however, we do not need all of options it offers. For 
 we will be using GitHub flow. The `master` branch will be protected meaning that we will not 
 be able to push/merge to it. The only way we can update it is through a Pull Request (PR).
 
-Remove this line: _**TODO: ss**_
-
-
 ## Terminology
 - Continuous Integration (CI)
   - _**TODO: ss**_
