@@ -5,6 +5,8 @@ organically grows as you grapple with getting specific things working or other t
 On top of the ever expanding experience with Linux, we will be diving into the exciting
 world of containers; Docker specifically.
 
+Most likely, this sprint will be tough; possibly the most tough of all of them. If I had to
+one that is the most important, this one would be it. Everything else diverges from this one.
 
 ## Linux
 Some things of note with Linux: everything is a file in Linux. Every file has
