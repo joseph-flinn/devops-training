@@ -59,5 +59,3 @@ that we are doing
 Pros: use current hardware
 Cons: Doesn't run Docker well
 
-
-_**TODO: ss**_
