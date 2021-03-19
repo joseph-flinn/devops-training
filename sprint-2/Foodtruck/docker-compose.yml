@@ -1,4 +1,4 @@
-version: "3"
+version: "7.8.0"
 services:
   es:
     image: docker.elastic.co/elasticsearch/elasticsearch:6.3.2
