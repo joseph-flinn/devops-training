@@ -46,9 +46,9 @@ use shell commands to interact with those containers.
 ## Main tech goals (sprints)
 - Weeks 1 & 2: Linux, git & Terminology
 - Weeks 3 & 4: Linux & Docker
-- Weeks 7 & 8: GitHub Actions - build pipelines
 - Weeks 5 & 6: Cloud & GCP
-- Weeks 9 & 10: Terraform
+- Weeks 7 & 8: Terraform
+- Weeks 9 & 10: GitHub Actions - build pipelines
 - Weeks 11 & 12: GitHub Actions - release/deploy pipelines
 
 
