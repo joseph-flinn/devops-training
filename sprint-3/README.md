@@ -4,7 +4,6 @@ mentality in the wider industry. As you read _The Pheonix Project_ you will see 
 is not necessary for DevOps to exist. 
 
 ## SSH
----
 While SSH isn't necessarily a cloud specific thing, it becomes very important when dealing 
 with VMs. SSH is a program that allows remote terminal access to linux servers (and maybe 
 windows? I don't know about that because I kind of refuse to deal with windows servers). Most
@@ -88,7 +87,6 @@ makes sense in a Production account). You can get a feel for this by adding me t
 account and granting me certain permissions and the like. 
 
 ## Cloud Services
----
 There are many many many different cloud service on all of the different clouds. There are 
 services that host AI applications for you. There are services that manage databases for you 
 so you don't have to worry about OS patching or indexing. All you have to do is dump your 
