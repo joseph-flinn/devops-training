@@ -48,8 +48,9 @@ use shell commands to interact with those containers.
 - Weeks 3 & 4: Linux & Docker
 - Weeks 5 & 6: Cloud & GCP
 - Weeks 7 & 8: Terraform
-- Weeks 9 & 10: GitHub Actions - build pipelines
-- Weeks 11 & 12: GitHub Actions - release/deploy pipelines
+- Weeks 9 & 10: CI/CD pipelines & GitHub Actions
+- Weeks 11 & 12: Final Project - Part 1
+- Weeks 13 & 14: Final Project - Part 2
 
 
 ## Format
