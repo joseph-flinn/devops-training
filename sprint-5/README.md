@@ -1,4 +1,4 @@
-# Sprint 5-6
+# Sprint 5
 One of the most important skills in the DevOps "field" is automation. The DevOps mindset is all
 about exposing processes and the work that flows through them and then applying automation to break
 through the bottlenecks that are identified in the flow of work. 
